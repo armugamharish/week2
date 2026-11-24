@@ -199,18 +199,3 @@ java -cp bin com.academy.primitives.PrimitiveTypesDemo
 
 ---
 
-## 🌐 100% Free Learning Resources (No Paid Courses Needed)
-
-You do **not** need to pay for Udemy or subscription platforms. The best, most up-to-date Java resources are completely free:
-
-1. **[dev.java — The Official Java Portal](https://dev.java/)**
-   - Maintained directly by the Oracle Java Platform Group.
-   - Comprehensive tutorials on language fundamentals, modern switch statements, records, and standard libraries.
-2. **[University of Helsinki MOOC — Java Programming I](https://java-programming.mooc.fi/)**
-   - Internationally acclaimed, free interactive university course with automated exercises.
-3. **[Oracle Official Java Tutorials](https://docs.oracle.com/javase/tutorial/)**
-   - The authoritative reference for Java language specifications and core libraries.
-4. **[Baeldung — Core Java Tutorials](https://www.baeldung.com/category/java/)**
-   - Clear, concise, production-oriented articles with code snippets.
-5. **[GeeksforGeeks Java Programming](https://www.geeksforgeeks.org/java/)**
-   - Easy lookup for algorithmic patterns, syntax, and interview preparation.
